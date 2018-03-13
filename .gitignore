@@ -1,4 +1,3 @@
 *.swp
 *.out
 .DS_Store
-*.ans.cpp
